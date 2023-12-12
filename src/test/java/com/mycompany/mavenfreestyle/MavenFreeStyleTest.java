@@ -16,10 +16,6 @@ import static org.junit.jupiter.api.Assertions.*;
  * @author olivert
  */
 public class MavenFreeStyleTest {
-    
-    public MavenFreeStyleTest() {
-    }
-
     /**
      * Test of main method, of class MavenFreeStyle.
      */
