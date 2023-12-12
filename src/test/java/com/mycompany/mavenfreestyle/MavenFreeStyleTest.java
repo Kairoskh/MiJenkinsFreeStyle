@@ -30,7 +30,7 @@ public class MavenFreeStyleTest {
     public void testFibonacci2(){
 	//App test = new App();
         MavenFreeStyle instance = new MavenFreeStyle();
-        assertFalse(instance.fibonacci(10) == 55);
+        assertTrue(instance.fibonacci(10) == 55);
     }
     
 }
